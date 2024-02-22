@@ -33,8 +33,8 @@ Didn't have Much Obstacle Building This Project
 
 ### Links
 
-- Solution URL: [Code]()
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/MarkPraise/blog-preview-card)
+- Live Site URL: [Blog_preview-LiveSite](https://markpraise.github.io/blog-preview-card/)
 
 ## My process
 
@@ -54,17 +54,7 @@ I Used The proJect to improve on My design Skills.
 -Composition
 -Cube CSS
 
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-for yourself when you look back on this project in the future.**
-
 ## Author
-
 
 - Frontend Mentor - [@MarkPraise](https://www.frontendmentor.io/profile/MarkPraise)
 - Twitter - [@Praise5Mark](https://www.twitter.com/Praise5Mark)
