@@ -36,6 +36,10 @@ main{
 main h1{
     color: hsl(0, 0%, 7%);
 }
+main h1:focus,h1:hover{
+    color:hsl(47, 88%, 63%) ;
+    cursor: pointer;
+}
 .imgContainer{
     border-radius: 10px;
     overflow: hidden;
@@ -59,6 +63,10 @@ main h1{
     width: 40%;
     background-color: hsl(47, 88%, 63%);
     border-radius: 5px;
+}
+.header button:hover{
+    border: 1px solid;
+    box-shadow: 2px 2px 5px rgb(142, 142, 207),-2px 2px 5px orange;
 }
 figure{
     display: flex;
